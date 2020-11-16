@@ -1,0 +1,13 @@
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\bin\Debug\netcoreapp3.1\Calculadora-B-sica-C-.exe
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\bin\Debug\netcoreapp3.1\Calculadora-B-sica-C-.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\bin\Debug\netcoreapp3.1\Calculadora-B-sica-C-.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\bin\Debug\netcoreapp3.1\Calculadora-B-sica-C-.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\bin\Debug\netcoreapp3.1\Calculadora-B-sica-C-.dll
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\bin\Debug\netcoreapp3.1\Calculadora-B-sica-C-.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\obj\Debug\netcoreapp3.1\Calculadora-B-sica-C-.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\obj\Debug\netcoreapp3.1\Calculadora-B-sica-C-.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\obj\Debug\netcoreapp3.1\Calculadora-B-sica-C-.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\obj\Debug\netcoreapp3.1\Calculadora-B-sica-C-.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\obj\Debug\netcoreapp3.1\Calculadora-B-sica-C-.dll
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\obj\Debug\netcoreapp3.1\Calculadora-B-sica-C-.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Calculadora-B-sica-C-\obj\Debug\netcoreapp3.1\Calculadora-B-sica-C-.genruntimeconfig.cache
