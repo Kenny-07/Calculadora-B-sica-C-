@@ -6,41 +6,14 @@ namespace Calculadora_B_sica_C_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bem vindo a calculadora mágica, digite qual a operação deseja fazer ?? ( + , - , * , / )");
-            string operacao = Console.ReadLine();
+            Console.WriteLine("Bem vindo a tabuada mágica, digite qual número você quer a tabuada: ");
+            int v = int.Parse( Console.ReadLine());
 
-            Console.WriteLine("Digite o 1º valor: ");
-            float num1 = float.Parse(Console.ReadLine());
-
-            Console.WriteLine("Digite o 2º valor: ");
-            float num2 = float.Parse(Console.ReadLine());
-
-            float resultado = 0f;
-
-            switch(operacao){
-                case "+":
-                    resultado = num1 + num2;
-                break;
-
-                case "-":
-                    resultado = num1 - num2;
-                break;
-
-                case "*":
-                    resultado = num1 * num2;
-                break;
-
-                case "/":
-                    resultado = num1 / num2;
-                break;
-
-                default:
-                    operacao = "invalida";
-                    Console.WriteLine("Operação Inválida :c");
-                break;
+            for (int i = 0; i < 11; i++)
+            {
+                Console.WriteLine($"{v} x {i} = {v * i}");
             }
 
-            Console.WriteLine($"Calculo: {num1} com {num2} = {resultado}");
         }
     }
 }
